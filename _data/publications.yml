@@ -25,7 +25,7 @@ main:
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-73202-7_11
-    image: ./assets/img/MST.png
+    image: ./assets/img/BURST.png
 
   - title: "Gaining the Sparse Rewards by Exploring Lottery Tickets in Spiking Neural Network"
     authors: <strong>Hao Cheng</strong>, Jiahang Cao, Erjia Xiao, Mengshu Sun, Renjing Xu

@@ -7,15 +7,33 @@ main:
     code: https://github.com/bic-L/Masked-Spiking-Transformer
     image: ./assets/img/MST.png
 
-  - title: "Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks"
-    authors: <strong>Ziqing Wang*</strong>, Yuetong Fang*, Jiahang Cao, Renjing Xu (*equal contribution)
-    conference_short: AAAI
-    conference: <b><font color="#cc0000">[Oral]</font></b> AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
-    code: https://github.com/bic-L/burst-ann2snn
+  - title: "Gaining the Sparse Rewards by Exploring Lottery Tickets in Spiking Neural Network"
+    authors: <strong>Hao Cheng</strong>, Jiahang Cao, Erjia Xiao, Mengshu Sun, Renjing Xu
+    conference_short: IROS
+    conference: <b><font color="#cc0000">[Oral]</font></b> IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10802854
     image: ./assets/img/BURST.png
 
+  - title: "Shifting attention to relevance: Towards the predictive uncertainty quantification of free-form large language models"
+    authors: Jinhao Duan, <strong>Hao Cheng</strong>, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.acl-long.276.pdf
+    image: ./assets/img/BURST.png
 
+  - title: "RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias"
+    authors: <strong>Hao Cheng</strong>, Jinhao Duan, Hui Li, Jiahang Cao, Ping Wang, Lyutianyang Zhang, Jize Zhang, Kaidi Xu, Renjing Xu
+    conference_short: BMVC
+    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2023.
+    pdf: https://papers.bmvc2023.org/0296.pdf
+    image: ./assets/img/BURST.png
 
+  - title: "Improve Video Representation with Temporal Adversarial Augmentation"
+    authors: Jinhao Duan, Quanfu Fan, <strong>Hao Cheng</strong>, Xiaoshuang Shi, Kaidi Xu
+    conference_short: IJCAI
+    conference: The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023.
+    pdf: https://www.ijcai.org/proceedings/2023/0079.pdf
+    image: ./assets/img/BURST.png
 
 
 

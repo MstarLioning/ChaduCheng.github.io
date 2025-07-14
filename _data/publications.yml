@@ -1,61 +1,56 @@
 main:
-  - title: Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models
-    authors: <strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jinhao Duan, Yichi Wang, Jiahang Cao, Qiang Zhang, Le Yang, Kaidi Xu, Jindong Gu†, Renjing Xu†
-    conference_short: ACM MM
-    conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2405.20090
-    image: ./assets/img/MST.png
-
-  - title: Truthprint: Mitigating lvlm object hallucination via latent truthful-guided pre-intervention
-    authors: Jinhao Duan*, Fei Kong*, <strong>Hao Cheng</strong>, James Diffenderfer, Bhavya Kailkhura, Lichao Sun, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu
-    conference_short: ICCV
-    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2503.10602
-    image: ./assets/img/MST.png
-
-  - title: Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models
-    authors: <strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jiahang Cao, Qiang Zhang, Jize Zhang, Kaidi Xu, Jindong Gu†, Renjing Xu†
-    conference_short: CVPR
-    conference: Proceedings of the Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2025.
-    pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_Not_Just_Text_Uncovering_Vision_Modality_Typographic_Threats_in_Image_CVPR_2025_paper.pdf
-    image: ./assets/img/MST.png
-
-  - title: Unveiling typographic deceptions: Insights of the typographic vulnerability in large vision-language models
-    authors: <strong>Hao Cheng*</strong>, Erjia Xiao*, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://link.springer.com/chapter/10.1007/978-3-031-73202-7_11
-    image: ./assets/img/BURST.png
-
+  - title: "Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jinhao Duan, Yichi Wang, Jiahang Cao, Qiang Zhang, Le Yang, Kaidi Xu, Jindong Gu†, Renjing Xu†"
+    conference_short: "ACM MM"
+    conference: "ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025."
+    pdf: "https://arxiv.org/abs/2405.20090"
+    image: "./assets/img/MST.png"
+    
+  - title: "Truthprint: Mitigating lvlm object hallucination via latent truthful-guided pre-intervention"
+    authors: "Jinhao Duan*, Fei Kong*, <strong>Hao Cheng</strong>, James Diffenderfer, Bhavya Kailkhura, Lichao Sun, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu"
+    conference_short: "ICCV"
+    conference: "International Conference on Computer Vision <strong>(ICCV)</strong>, 2025."
+    pdf: "https://arxiv.org/abs/2503.10602"
+    image: "./assets/img/MST.png"
+    
+  - title: "Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jiahang Cao, Qiang Zhang, Jize Zhang, Kaidi Xu, Jindong Gu†, Renjing Xu†"
+    conference_short: "CVPR"
+    conference: "Proceedings of the Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2025."
+    pdf: "https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_Not_Just_Text_Uncovering_Vision_Modality_Typographic_Threats_in_Image_CVPR_2025_paper.pdf"
+    image: "./assets/img/MST.png"
+    
+  - title: "Unveiling typographic deceptions: Insights of the typographic vulnerability in large vision-language models"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu"
+    conference_short: "ECCV"
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2024."
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-73202-7_11"
+    image: "./assets/img/BURST.png"
+    
   - title: "Gaining the Sparse Rewards by Exploring Lottery Tickets in Spiking Neural Network"
-    authors: <strong>Hao Cheng</strong>, Jiahang Cao, Erjia Xiao, Mengshu Sun, Renjing Xu
-    conference_short: IROS
-    conference: <b><font color="#cc0000">[Oral]</font></b> IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10802854
-    image: ./assets/img/BURST.png
-
+    authors: "<strong>Hao Cheng</strong>, Jiahang Cao, Erjia Xiao, Mengshu Sun, Renjing Xu"
+    conference_short: "IROS"
+    conference: '<b><font color="#cc0000">[Oral]</font></b> IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.'
+    pdf: "https://ieeexplore.ieee.org/abstract/document/10802854"
+    image: "./assets/img/BURST.png"
+    
   - title: "Shifting attention to relevance: Towards the predictive uncertainty quantification of free-form large language models"
-    authors: Jinhao Duan, <strong>Hao Cheng</strong>, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu
-    conference_short: ACL
-    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
-    pdf: https://aclanthology.org/2024.acl-long.276.pdf
-    image: ./assets/img/BURST.png
-
+    authors: "Jinhao Duan, <strong>Hao Cheng</strong>, Shiqi Wang, Alex Zavalny, Chenan Wang, Renjing Xu, Bhavya Kailkhura, Kaidi Xu"
+    conference_short: "ACL"
+    conference: "Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024."
+    pdf: "https://aclanthology.org/2024.acl-long.276.pdf"
+    image: "./assets/img/BURST.png"
+    
   - title: "RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias"
-    authors: <strong>Hao Cheng</strong>, Jinhao Duan, Hui Li, Jiahang Cao, Ping Wang, Lyutianyang Zhang, Jize Zhang, Kaidi Xu, Renjing Xu
-    conference_short: BMVC
-    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2023.
-    pdf: https://papers.bmvc2023.org/0296.pdf
-    image: ./assets/img/BURST.png
-
+    authors: "<strong>Hao Cheng</strong>, Jinhao Duan, Hui Li, Jiahang Cao, Ping Wang, Lyutianyang Zhang, Jize Zhang, Kaidi Xu, Renjing Xu"
+    conference_short: "BMVC"
+    conference: "British Machine Vision Conference <strong>(BMVC)</strong>, 2023."
+    pdf: "https://papers.bmvc2023.org/0296.pdf"
+    image: "./assets/img/BURST.png"
+    
   - title: "Improve Video Representation with Temporal Adversarial Augmentation"
-    authors: Jinhao Duan, Quanfu Fan, <strong>Hao Cheng</strong>, Xiaoshuang Shi, Kaidi Xu
-    conference_short: IJCAI
-    conference: The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023.
-    pdf: https://www.ijcai.org/proceedings/2023/0079.pdf
-    image: ./assets/img/BURST.png
-
-
-
-
-
+    authors: "Jinhao Duan, Quanfu Fan, <strong>Hao Cheng</strong>, Xiaoshuang Shi, Kaidi Xu"
+    conference_short: "IJCAI"
+    conference: "The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023."
+    pdf: "https://www.ijcai.org/proceedings/2023/0079.pdf"
+    image: "./assets/img/BURST.png"

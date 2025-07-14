@@ -21,12 +21,6 @@ main:
     code: https://github.com/ridgerchu/SAD
     image: ./assets/img/SAD.png
 
-  - title: "Spiking Neural Network as Adaptive Event Stream Slicer"
-    authors: Jiahang Cao*, Mingyuan Sun*, <strong>Ziqing Wang*</strong>, Hao Cheng, Qiang Zhang, Renjing Xu (*equal contribution)
-    conference_short: NeurIPS
-    conference: NeurIPS Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    image: ./assets/img/BEEF.png
-
   - title: Spiking Wavelet Transformer
     authors: Yuetong Fang*, <strong>Ziqing Wang*</strong>, Jiahang Cao, Renjing Xu (*equal contribution)
     conference_short: ECCV
